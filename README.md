@@ -1,11 +1,11 @@
            Retail Sales & Customer Performance Dashboard 
 
          Project Overview  
-I worked on this dataset to understand how sales performance and customer behavior would impact business decisions.
+Used Excel to understand how sales performance and customer behavior would impact business decisions.
 The goal was to revenue pattern, customer segments, and product Category and subcategory(Pivot Table) performance into something easy to understand.
 
 Data Cleaning
-Using Excel for cleaning and visualization
+Using Excel for cleaning and visualization,
 Using Power Query in excel to trim,clean messy data.
 
   Questions Business Would asked
