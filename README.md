@@ -5,6 +5,7 @@ I worked on this dataset to understand how sales performance and customer behavi
 The goal was to revenue pattern, customer segments, and product Category and subcategory(Pivot Table) performance into something easy to understand.
 
 Data Cleaning
+Using Excel for cleaning and visualization
 Using Power Query in excel to trim,clean messy data.
 
   Questions Business Would asked
